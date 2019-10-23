@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller 3D</string>
+    <string name="dice_1">1</string>
+    <string name="dice_2">1</string>
+    <string name="dice_3">1</string>
+    <string name="btnLabel">Roll</string>
+    <string name="btnLabel1">Reset</string>
+    <string name="clearBtn">Clear</string>
+</resources>
